@@ -2,13 +2,13 @@ body {
     background-color: #eae8e7;
 }
 
-ul {
-    list-style-type: none;
-}
-
 img {
     max-width: 100%;
     max-height: 100%;
+}
+
+ul {
+    list-style-type: none;
 }
 
 .box {
@@ -28,7 +28,6 @@ img {
     color: #ffffff;
     background-color: #5da4d9;
 }
-
 
 #experience {
     margin-left: 80px;

@@ -5,4 +5,4 @@
 * Link to lucid blog post: https://lucid.blog/Muneer/post/1566584925
 
 #task 2
-* we are to add css to our files.
+* we are to add css to our files and submit a pull request.

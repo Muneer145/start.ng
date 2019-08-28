@@ -3,3 +3,6 @@
 * The first task is to recreate our c.v using only html(no css)
 * Link to blog post about Flutterwave: https://www.muneer.com.ng/2019/08/the-first-week-grind-at-startng-remote.html
 * Link to lucid blog post: https://lucid.blog/Muneer/post/1566584925
+
+#task 2
+* we are to add css to our files.

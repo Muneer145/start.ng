@@ -6,3 +6,4 @@
 
 #task 2
 * we are to add css to our files and submit a pull request.
+Link to lucid blog post about css: https://lucid.blog/Muneer/post/cascading-style-sheets-6db

@@ -6,3 +6,6 @@
 
 #task 2
 * we are to add css to our files and submit a pull request.
+
+#task 3
+* Add contact form to cv.
